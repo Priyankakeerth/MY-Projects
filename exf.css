@@ -1,0 +1,45 @@
+#head
+{
+width:auto;
+height:auto;
+box-sizing:content-box;
+background-image: url("bc.png");
+padding:10px 10px 10px 10px;
+
+}
+
+
+
+
+#backg
+{
+background-color:#c7f9f0;
+width:45%;
+color:black;
+  font-weight: bold;
+font-size:13px;
+font-family: "Times New Roman", Times, serif;
+height:40%;
+margin:1% 20% 20% 30%;
+padding:2px;
+border: 2px solid white;
+box-sizing:border-box;
+box-shadow: 5px 5px 5px 5px gray;
+}
+#test1
+{
+border-radius:10px;
+
+}
+
+
+
+#heading
+{
+color:black;
+font-size:10px;
+text-align:center;
+color:blue;
+text-decoration-line:underline;
+
+}
