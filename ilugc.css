@@ -1,0 +1,18 @@
+.ilugc, .indian
+{
+text-transform:uppercase;
+padding: 10px; 
+}
+
+.ilugc
+{
+font-size: 20px; 
+}
+
+.indian
+{
+ color:red; 
+text-decoration-line: overline; 
+text-decoration-color: #ebebeb;
+}
+
